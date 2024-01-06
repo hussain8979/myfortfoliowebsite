@@ -1,0 +1,151 @@
+/* sherd style */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* nav reylatedstly */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0% 230px; 
+}
+.nav-title{
+color:  #181818;
+font-size: 45px;
+font-weight: 800;
+
+}
+.text-orang{
+color: #FD6E0A;
+font-size: 45px;
+font-weight: 800;
+}
+nav> ul{
+    display: flex;
+    align-items: center;
+
+}
+nav li{
+    list-style-type: none;
+    margin-right: 51px;
+    /* align-items: center; */
+
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.button-style{
+    border-radius: 5px;
+background: #FD6E0A;
+border: 0;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+padding:18px 35px ;
+
+
+}
+/* hedear-related -style */
+.header-style{
+    background-color:  #FFF8F3;
+    background-image: url("../images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
+.banner-style{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+ .banner-style .img-style{
+    width: 584px;
+height: 676px;
+}
+.banner-greeting{
+     color: #474747;
+     font-size: 45px;
+     font-weight: 600;
+     margin-bottom: 0px;
+
+}
+.mary-text-style{
+ color:#181818;
+ font-size: 85px;
+ font-weight: 700;
+ margin-top: 5px;
+ margin-bottom: 0px;
+
+
+}
+.normal-text-style{
+   color:  #757575;
+   font-size: 18px;
+   font-weight: 400;
+   margin-top: 20px;
+   margin-bottom: 0px;
+
+
+}
+.button-margin-style{
+    margin-top: 30px;
+}
+.banner-content{
+     max-width: 480px; 
+}
+/* main-section-style */
+.about{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 377px;
+    margin-right: 230px;
+    width: 1140px;
+    height: 550px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    justify-content: space-between;
+}
+.section-title{
+    color:#181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 130px;
+    margin-bottom: 0%;
+}
+.section-discription{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left:157px ;
+    padding-right: 157px;
+    margin-top: 30px;
+}
+
+.adrees-style{
+    display: flex;
+     list-style: none;
+      /* margin-left: 150px;  */
+      padding-left: 179px;
+}
+.adrees-list-style1{
+    text-align: center;
+     /* margin: 30px; */
+      margin-top: 10px;
+      margin-left: 50px; 
+      color:#757575;
+      font-size: 20px;
+      font-weight: 400;
+}
+.color{
+color: #474747;
+font-size: 20px;
+font-weight: 700;
+
+}
+    
+
